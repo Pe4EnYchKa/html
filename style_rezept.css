@@ -1,0 +1,242 @@
+a{
+    font-size: 30px;
+    color: saddlebrown;
+    text-decoration: none;
+}
+        .header {
+            font-family: Marck Script;
+            background-color: #689CD2;
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            justify-content: space-between;
+        padding: 10px;
+            text-align: center;
+            background-image: url(https://s1.1zoom.ru/b5050/482/Coffee_Grain_485314_1920x1200.jpg);
+            height: 570px;
+            display: block;
+}
+
+html body {
+            padding: 0;
+            margin: 0;
+        }
+        .header_section {
+            color: sandybrown;
+            display: flex;
+            align-items: center;
+            font-size: 30px;
+            padding: 2rem 1.5rem;
+            flex-grow: 1;
+            flex-shrink: 0;
+            
+        }
+        
+.header_item{
+    padding: 20px 40px;
+    font-size: 20px;
+    margin-left: 40px;
+    
+}        
+
+        .header_section{
+            margin: 0 auto;
+        }
+
+        @media screen and (min-width: 1200px) {
+            .header_section {
+                max-width: 1152px;
+                width: 1152px;
+            }
+        }
+
+        @media screen and (min-width: 1080px) {
+            .header_section{
+                max-width: 960px;
+                width: 960px;
+            }
+        }
+.telo_zagolovok1{
+    float: left;
+   font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+margin: 7px; /* Значение отступов */
+padding: 1em; /* Поля вокруг текста */
+}
+.telo_text1{
+    float: left;
+    font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+    height: 10px;
+margin: 7px; /* Значение отступов */
+padding: 5em; /* Поля вокруг текста */
+    
+}
+.telo_zagolovok2{
+    float: left;
+   font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+margin: 7px; /* Значение отступов */
+padding: 1em; /* Поля вокруг текста */
+}
+.telo_text2{
+    float: left;
+    font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+    height: 10px;
+margin: 7px; /* Значение отступов */
+padding: 5em; /* Поля вокруг текста */
+    
+}
+.telo_zagolovok3{
+    float: left;
+   font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+margin: 7px; /* Значение отступов */
+padding: 1em; /* Поля вокруг текста */
+}
+.telo_text3{
+    float: left;
+    font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+    height: 10px;
+margin: 7px; /* Значение отступов */
+padding: 5em; /* Поля вокруг текста */
+    
+}
+.telo_zagolovok4{
+    float: left;
+   font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+margin: 7px; /* Значение отступов */
+padding: 1em; /* Поля вокруг текста */
+}
+.telo_text4{
+    float: left;
+    font-family: Marck Script;
+    padding: 2rem 1.5rem;
+    display: block;
+    align-items: right;
+    margin: 0 auto;
+    color: saddlebrown; 
+    display: block;
+    padding: 0;
+    border: 0;
+    outline: 0; 
+    vertical-align: baseline; 
+    background: transparent; 
+    font-size: 30px; 
+    padding-left: 35em; 
+    padding-right: 5em;
+        padding-top: 0;
+    width: 700px; /* Ширина слоя */
+    height: 10px;
+margin: 7px; /* Значение отступов */
+padding: 5em; /* Поля вокруг текста */
+    
+}
